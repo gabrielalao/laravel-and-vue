@@ -1,1 +1,1 @@
-6 update and create, delete, put functions created and update in backend controllers on 7/23/2016
+1 update and create, delete, put functions created and update in backend controllers on 8/23/2016
